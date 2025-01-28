@@ -2,8 +2,6 @@
 
 Malbian Linux is a Debian-based GNU/Linux distribution aimed towards Malware Analysis and Reverse Engineering, created and maintained by [0xCambie](https://github.com/0xCambie).
 
-The Firsts ISOs were made using [Penguins' Eggs](https://github.com/pieroproietti/penguins-eggs), a cool little utility created by pieroproietti.
-
 The distributions run with custom scripts that would display information in a Tmux-session. What information? Useful information like Internet Conectivity, LAN IP Address, Target IP Address or Domain, VPN Connection status and Host connectivity state. The Xfce ISO consists of an Xfce Desktop Environment to provide a familiar user interface, while the DWM ISO runs with a Window Manager. They are both shipped with some general tools for Analyzing malware samples and simple system utilities in order to make the system more reliable and usable. 
 
 I strongly recommend [installing](https://github.com/MalbianLinux/Malbian-ISOs) the Xfce version of Malbian since it's going to be less convoluted.
