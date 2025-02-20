@@ -1,4 +1,4 @@
-## Malbian Linux
+## ☢ Malbian Linux ☣
 
 Malbian Linux is a Debian-based GNU/Linux distribution aimed towards Malware Analysis and Reverse Engineering, created and maintained by [0xCambie](https://github.com/0xCambie).
 
