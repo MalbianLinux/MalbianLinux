@@ -8,9 +8,11 @@ I strongly recommend installing the Xfce version of Malbian since it's going to 
 
 This distribution is 100% free to use and distribute. This project was made in order to contribute to the community while also helping those who are starting with MA & RE. Also, it's important to give back to the internet all the help and knowledge that it gave us. 
  
-You can download the ISOs in [SourceForge](https://sourceforge.net/projects/malbianlinux/).
+You can find the ISOs in [SourceForge](https://sourceforge.net/projects/malbianlinux/).
 
-<a href="https://sourceforge.net/projects/malbianlinux/files/latest/download"><img alt="Download MalbianLinux" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+### Download the Latest version!
+
+<a href="https://sourceforge.net/p/malbianlinux/"><img alt="Download MalbianLinux" src="https://sourceforge.net/sflogo.php?type=18&amp;group_id=3843653" width=200></a> <a href="https://sourceforge.net/projects/malbianlinux/files/latest/download"><img alt="Download MalbianLinux" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
 ### Why debian?
 
@@ -23,8 +25,3 @@ Malbian was made as an alternative to Remnux which is based on Ubuntu. The good 
 Also, since Malbian is in an Alpha state, we are open to changes and modifications to best suit our needs. You can actually participate, suggest or ask for tools to be added into Malbian's images in our [Discord Server](https://discord.gg/bscRQEgc) 
 
 Finally, I'm not trying to convince or persuade anyone to use Malbian. I strongly believe that everyone should pick a Distribution that fits their needs, workflow and allows anyone to get the job done. What I'm trying to do is build a distribution with qualities that would allow a simple, fast and safe way to analyze malware samples.
-
-### Recognition from SourceForge.
-
-<a href="https://sourceforge.net/p/malbianlinux/"><img alt="Download MalbianLinux" src="https://sourceforge.net/sflogo.php?type=18&amp;group_id=3843653" width=200></a> <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a> <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a>
-
