@@ -10,12 +10,9 @@ This distribution is 100% free to use and distribute. This project was made in o
  
 You can find the ISOs in [SourceForge](https://sourceforge.net/projects/malbianlinux/).
 
-[![Download MalbianLinux](https://img.shields.io/sourceforge/dt/malbianlinux.svg)](https://sourceforge.net/projects/malbianlinux/files/latest/download)
-
 ### Download the Latest version!
 
-<a href="https://sourceforge.net/projects/malbianlinux/files/latest/download"><img alt="Download MalbianLinux" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
-
+[![Download MalbianLinux](https://img.shields.io/sourceforge/dt/malbianlinux.svg)](https://sourceforge.net/projects/malbianlinux/files/latest/download) 
 
 ### Why debian?
 
