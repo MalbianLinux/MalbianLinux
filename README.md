@@ -8,7 +8,9 @@ I strongly recommend installing the Xfce version of Malbian since it's going to 
 
 This distribution is 100% free to use and distribute. This project was made in order to contribute to the community while also helping those who are starting with MA & RE. Also, it's important to give back to the internet all the help and knowledge that it gave us. 
  
-You can download the ISOs in <a href="https://sourceforge.net/p/malbianlinux/"><img alt="Download MalbianLinux" src="https://sourceforge.net/sflogo.php?type=18&amp;group_id=3843653" width=200></a>
+You can download the ISOs in [SourceForge](https://sourceforge.net/projects/malbianlinux/).
+
+<a href="https://sourceforge.net/projects/malbianlinux/files/latest/download"><img alt="Download MalbianLinux" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
 ### Why debian?
 
@@ -24,14 +26,5 @@ Finally, I'm not trying to convince or persuade anyone to use Malbian. I strongl
 
 ### Recognition from SourceForge.
 
-<div class="sf-root" data-id="3843653" data-badge="oss-users-love-us-white" style="width:125px">
-    <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3843653';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
+<a href="https://sourceforge.net/p/malbianlinux/"><img alt="Download MalbianLinux" src="https://sourceforge.net/sflogo.php?type=18&amp;group_id=3843653" width=200></a> <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a> <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a>
 
-<div class="sf-root" data-id="3843653" data-badge="oss-rising-star-white" data-metadata="achievement=oss-rising-star" style="width:125px">
-    <a href="https://sourceforge.net/projects/malbianlinux/" target="_blank">MalbianLinux</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3843653';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
