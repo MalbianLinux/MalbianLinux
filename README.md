@@ -7,8 +7,6 @@ The distributions run with custom scripts that would display information in a Tm
 I strongly recommend installing the Xfce version of Malbian since it's going to be less convoluted.
 
 This distribution is 100% free to use and distribute. This project was made in order to contribute to the community while also helping those who are starting with MA & RE. Also, it's important to give back to the internet all the help and knowledge that it gave us. 
- 
-You can find the ISOs in [SourceForge](https://sourceforge.net/projects/malbianlinux/).
 
 ### Download the Latest version!
 
