@@ -4,7 +4,7 @@ Malbian Linux is a Debian-based GNU/Linux distribution aimed towards Malware Ana
 
 The distributions run with custom scripts that would display information in a Tmux-session. What information? Useful information like Internet Conectivity, LAN IP Address, Target IP Address or Domain, VPN Connection status and Host connectivity status. The Xfce ISO consists of an Xfce Desktop Environment to provide a familiar user interface, while the DWM ISO runs with a Window Manager. They are both shipped with some general tools for Analyzing malware samples and simple system utilities in order to make the system more reliable and usable. 
 
-I strongly recommend installing the Xfce version of Malbian since it's going to be less convoluted.
+I strongly recommend installing the Xfce version of Malbian since it's going to be less convoluted. However, if you like challenges, very fast and lightweight systems go for the DWM ISO!.
 
 This distribution is 100% free to use and distribute. This project was made in order to contribute to the community while also helping those who are starting with MA & RE. Also, it's important to give back to the internet all the help and knowledge that it gave us. 
 
