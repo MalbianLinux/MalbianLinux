@@ -24,7 +24,7 @@ Simply because the system needs to be robust and work without being updated cons
 
 Malbian was made as an alternative to Remnux which is based on Ubuntu. The good thing about Malbian is that it has ISOs to run live or install on disk at any time, while Remnux has OVA files which restricts the hypervisors where you can run it. 
 
-Also, since Malbian is in an Alpha state, we are open to changes and modifications to best suit our needs. You can actually participate, suggest or ask for tools to be added into Malbian's images in our [Discord Server](https://discord.gg/bscRQEgc) 
+Also, since Malbian is in an Alpha state, we are open to changes and modifications to best suit our needs. You can actually participate, suggest or ask for tools to be added into Malbian's images in our [Discord Server](https://discord.gg/TY5wG8zn) 
 
 Finally, I'm not trying to convince or persuade anyone to use Malbian. I strongly believe that everyone should pick a Distribution that fits their needs, workflow and allows anyone to get the job done. What I'm trying to do is build a distribution with qualities that would allow a simple, fast and safe way to analyze malware samples.
 
